@@ -39,3 +39,24 @@ Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/) with
 Since the original foxslide is built upon Bootstrap by Twitter, it was
 simple to switch it out with
 [Spacelab](http://bootswatch.com/spacelab/).
+
+## Installation
+
+````
+$ cd blog
+$ git clone https://github.com/hyfather/reynard.git .themes/reynard
+$ rake install["reynard"]
+$ rake generate
+````
+
+## Screenshots
+
+![Landing page](https://raw.github.com/hyfather/reynard/master/screenshots/landingpage.png)
+*Landing Page*
+
+![Blog post](https://raw.github.com/hyfather/reynard/master/screenshots/blogpost.png)
+*Blog Post*
+
+![Footer](https://raw.github.com/hyfather/reynard/master/screenshots/footer.png)
+*Footer*
+
