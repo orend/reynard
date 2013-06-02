@@ -1,6 +1,6 @@
 # Reynard #
 
-This is a fork of Adrian's great looking foxslide theme for octopress.
+This is a fork of Adrian's great looking [foxslide](https://github.com/sevenadrian/foxslide) theme for octopress.
 
 ## Navbar
 
@@ -51,12 +51,12 @@ $ rake generate
 
 ## Screenshots
 
+### Landing Page
 ![Landing page](https://raw.github.com/hyfather/reynard/master/screenshots/landingpage.png)
-*Landing Page*
 
+### Blog Post
 ![Blog post](https://raw.github.com/hyfather/reynard/master/screenshots/blogpost.png)
-*Blog Post*
 
+### Footer
 ![Footer](https://raw.github.com/hyfather/reynard/master/screenshots/footer.png)
-*Footer*
 
