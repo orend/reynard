@@ -49,6 +49,10 @@ $ rake install["reynard"]
 $ rake generate
 ````
 
+## Live preview
+
+My [personal blog](http://blog.hyfather.com) uses Reynard.
+
 ## Screenshots
 
 ### Landing Page
